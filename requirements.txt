@@ -1,4 +1,3 @@
 # Dependencias para el servidor de chat
 # Solo incluye lo necesario para el servidor (no PyQt5)
-socket
-threading
+emoji
